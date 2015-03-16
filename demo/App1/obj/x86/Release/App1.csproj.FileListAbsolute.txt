@@ -1,0 +1,71 @@
+C:\Users\dark\Documents\Visual Studio 2013\Projects\App1\App1\bin\x86\Release\App.xbf
+C:\Users\dark\Documents\Visual Studio 2013\Projects\App1\App1\bin\x86\Release\MainPage.xbf
+C:\Users\dark\Documents\Visual Studio 2013\Projects\App1\App1\bin\x86\Release\App1.exe
+C:\Users\dark\Documents\Visual Studio 2013\Projects\App1\App1\bin\x86\Release\App1.pdb
+C:\Users\dark\Documents\Visual Studio 2013\Projects\App1\App1\bin\x86\Release\resources.pri
+C:\Users\dark\Documents\Visual Studio 2013\Projects\App1\App1\bin\x86\Release\AppxManifest.xml
+C:\Users\dark\Documents\Visual Studio 2013\Projects\App1\App1\bin\x86\Release\App1.build.appxrecipe
+C:\Users\dark\Documents\Visual Studio 2013\Projects\App1\App1\bin\x86\Release\DesktopAd.winmd
+C:\Users\dark\Documents\Visual Studio 2013\Projects\App1\App1\obj\x86\Release\App.g.i.cs
+C:\Users\dark\Documents\Visual Studio 2013\Projects\App1\App1\obj\x86\Release\App.g.cs
+C:\Users\dark\Documents\Visual Studio 2013\Projects\App1\App1\obj\x86\Release\MainPage.g.i.cs
+C:\Users\dark\Documents\Visual Studio 2013\Projects\App1\App1\obj\x86\Release\MainPage.g.cs
+C:\Users\dark\Documents\Visual Studio 2013\Projects\App1\App1\obj\x86\Release\XamlTypeInfo.g.cs
+C:\Users\dark\Documents\Visual Studio 2013\Projects\App1\App1\obj\x86\Release\App.xaml
+C:\Users\dark\Documents\Visual Studio 2013\Projects\App1\App1\obj\x86\Release\App.xbf
+C:\Users\dark\Documents\Visual Studio 2013\Projects\App1\App1\obj\x86\Release\XamlSaveStateFile.xml
+C:\Users\dark\Documents\Visual Studio 2013\Projects\App1\App1\obj\x86\Release\MainPage.xaml
+C:\Users\dark\Documents\Visual Studio 2013\Projects\App1\App1\obj\x86\Release\MainPage.xbf
+C:\Users\dark\Documents\Visual Studio 2013\Projects\App1\App1\obj\x86\Release\App1.exe
+C:\Users\dark\Documents\Visual Studio 2013\Projects\App1\App1\obj\x86\Release\App1.pdb
+C:\Users\dark\Documents\Visual Studio 2013\Projects\App1\App1\obj\x86\Release\priconfig.xml
+C:\Users\dark\Documents\Visual Studio 2013\Projects\App1\App1\obj\x86\Release\priconfig.xml.intermediate
+C:\Users\dark\Documents\Visual Studio 2013\Projects\App1\App1\obj\x86\Release\layout.resfiles
+C:\Users\dark\Documents\Visual Studio 2013\Projects\App1\App1\obj\x86\Release\layout.resfiles.intermediate
+C:\Users\dark\Documents\Visual Studio 2013\Projects\App1\App1\obj\x86\Release\resources.resfiles
+C:\Users\dark\Documents\Visual Studio 2013\Projects\App1\App1\obj\x86\Release\resources.resfiles.intermediate
+C:\Users\dark\Documents\Visual Studio 2013\Projects\App1\App1\obj\x86\Release\pri.resfiles
+C:\Users\dark\Documents\Visual Studio 2013\Projects\App1\App1\obj\x86\Release\pri.resfiles.intermediate
+C:\Users\dark\Documents\Visual Studio 2013\Projects\App1\App1\obj\x86\Release\qualifiers.txt
+C:\Users\dark\Documents\Visual Studio 2013\Projects\App1\App1\obj\x86\Release\qualifiers.txt.intermediate
+C:\Users\dark\Documents\Visual Studio 2013\Projects\App1\App1\obj\x86\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\dark\Documents\Visual Studio 2013\Projects\App1\App1\obj\x86\Release\ProjectArchitectures.txt
+C:\Users\dark\Documents\Visual Studio 2013\Projects\App1\App1\bin\x86\Release\DesktopAd.pri
+C:\Users\dark\Documents\Visual Studio 2013\Projects\App1\App1\obj\x86\Release\App1.csprojResolveAssemblyReference.cache
+C:\Users\dark\Documents\Visual Studio 2013\Projects\App1\App1\obj\x86\Release\DesktopAd.pri.xml
+C:\Users\dark\Documents\Visual Studio 2013\Projects\App1\App1\bin\x86\Release\DesktopAd.pdb
+C:\Users\icsoft\Desktop\DesktopAD相关\DesktopAd\demo\App1\bin\x86\Release\App.xbf
+C:\Users\icsoft\Desktop\DesktopAD相关\DesktopAd\demo\App1\bin\x86\Release\MainPage.xbf
+C:\Users\icsoft\Desktop\DesktopAD相关\DesktopAd\demo\App1\bin\x86\Release\App1.exe
+C:\Users\icsoft\Desktop\DesktopAD相关\DesktopAd\demo\App1\bin\x86\Release\App1.pdb
+C:\Users\icsoft\Desktop\DesktopAD相关\DesktopAd\demo\App1\bin\x86\Release\resources.pri
+C:\Users\icsoft\Desktop\DesktopAD相关\DesktopAd\demo\App1\bin\x86\Release\AppxManifest.xml
+C:\Users\icsoft\Desktop\DesktopAD相关\DesktopAd\demo\App1\bin\x86\Release\App1.build.appxrecipe
+C:\Users\icsoft\Desktop\DesktopAD相关\DesktopAd\demo\App1\bin\x86\Release\DesktopAd.winmd
+C:\Users\icsoft\Desktop\DesktopAD相关\DesktopAd\demo\App1\bin\x86\Release\DesktopAd.pri
+C:\Users\icsoft\Desktop\DesktopAD相关\DesktopAd\demo\App1\obj\x86\Release\App1.csprojResolveAssemblyReference.cache
+C:\Users\icsoft\Desktop\DesktopAD相关\DesktopAd\demo\App1\obj\x86\Release\App.g.i.cs
+C:\Users\icsoft\Desktop\DesktopAD相关\DesktopAd\demo\App1\obj\x86\Release\App.g.cs
+C:\Users\icsoft\Desktop\DesktopAD相关\DesktopAd\demo\App1\obj\x86\Release\MainPage.g.i.cs
+C:\Users\icsoft\Desktop\DesktopAD相关\DesktopAd\demo\App1\obj\x86\Release\MainPage.g.cs
+C:\Users\icsoft\Desktop\DesktopAD相关\DesktopAd\demo\App1\obj\x86\Release\XamlTypeInfo.g.cs
+C:\Users\icsoft\Desktop\DesktopAD相关\DesktopAd\demo\App1\obj\x86\Release\App.xaml
+C:\Users\icsoft\Desktop\DesktopAD相关\DesktopAd\demo\App1\obj\x86\Release\MainPage.xaml
+C:\Users\icsoft\Desktop\DesktopAD相关\DesktopAd\demo\App1\obj\x86\Release\App.xbf
+C:\Users\icsoft\Desktop\DesktopAD相关\DesktopAd\demo\App1\obj\x86\Release\MainPage.xbf
+C:\Users\icsoft\Desktop\DesktopAD相关\DesktopAd\demo\App1\obj\x86\Release\XamlSaveStateFile.xml
+C:\Users\icsoft\Desktop\DesktopAD相关\DesktopAd\demo\App1\obj\x86\Release\App1.exe
+C:\Users\icsoft\Desktop\DesktopAD相关\DesktopAd\demo\App1\obj\x86\Release\App1.pdb
+C:\Users\icsoft\Desktop\DesktopAD相关\DesktopAd\demo\App1\obj\x86\Release\priconfig.xml
+C:\Users\icsoft\Desktop\DesktopAD相关\DesktopAd\demo\App1\obj\x86\Release\priconfig.xml.intermediate
+C:\Users\icsoft\Desktop\DesktopAD相关\DesktopAd\demo\App1\obj\x86\Release\layout.resfiles
+C:\Users\icsoft\Desktop\DesktopAD相关\DesktopAd\demo\App1\obj\x86\Release\layout.resfiles.intermediate
+C:\Users\icsoft\Desktop\DesktopAD相关\DesktopAd\demo\App1\obj\x86\Release\resources.resfiles
+C:\Users\icsoft\Desktop\DesktopAD相关\DesktopAd\demo\App1\obj\x86\Release\resources.resfiles.intermediate
+C:\Users\icsoft\Desktop\DesktopAD相关\DesktopAd\demo\App1\obj\x86\Release\pri.resfiles
+C:\Users\icsoft\Desktop\DesktopAD相关\DesktopAd\demo\App1\obj\x86\Release\pri.resfiles.intermediate
+C:\Users\icsoft\Desktop\DesktopAD相关\DesktopAd\demo\App1\obj\x86\Release\qualifiers.txt
+C:\Users\icsoft\Desktop\DesktopAD相关\DesktopAd\demo\App1\obj\x86\Release\qualifiers.txt.intermediate
+C:\Users\icsoft\Desktop\DesktopAD相关\DesktopAd\demo\App1\obj\x86\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\icsoft\Desktop\DesktopAD相关\DesktopAd\demo\App1\obj\x86\Release\DesktopAd.pri.xml
+C:\Users\icsoft\Desktop\DesktopAD相关\DesktopAd\demo\App1\obj\x86\Release\ProjectArchitectures.txt
