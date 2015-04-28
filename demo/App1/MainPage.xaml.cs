@@ -56,6 +56,12 @@ namespace App1
             myad.Load();
         }
 
+        private void Button_HalfTransverse_Click(object sender, RoutedEventArgs e)
+        {
+            myad.AdStyle = BannerStyle.MinTransverse;
+            myad.Load();
+        }
+
         private void Button_Vertical_Click(object sender, RoutedEventArgs e)
         {
             myad.AdStyle = BannerStyle.Vertical;

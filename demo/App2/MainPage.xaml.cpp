@@ -30,6 +30,7 @@ void App2::MainPage::Button_Click(Platform::Object^ sender, Windows::UI::Xaml::R
 {
 	
 	//MainPage::myad->AdStyle = DesktopAd::BannerStyle::Transverse;
+	//MainPage::myad->AdStyle = DesktopAd::BannerStyle::MinTransverse;
 	MainPage::myad->AdStyle = DesktopAd::BannerStyle::Vertical;
 	MainPage::myad->Load();
 }

@@ -10,8 +10,10 @@
 
     <Grid Background="#FF835D5D" >
         <Button Content="Set myad as Transverse ad" HorizontalAlignment="Left" Margin="75,73,0,0" VerticalAlignment="Top" Click="Button_Transverse_Click" Height="40" Width="316"/>
-        <Button Content="Set myad as Vertical ad" HorizontalAlignment="Left" Margin="75,122,0,0" VerticalAlignment="Top" Height="40" Width="316" Click="Button_Vertical_Click"/>    
-        <Button Content="Open a Popup ad" HorizontalAlignment="Left" Margin="75,173,0,0" VerticalAlignment="Top" Click="Button_OpenPopup_Click" Width="316"/>
+        <Button Content="Set myad as Vertical ad" HorizontalAlignment="Left" Margin="75,122,0,0" VerticalAlignment="Top" Height="40" Width="316" Click="Button_Vertical_Click"/>
+        <Button Content="Set myad as HalfTransverse ad" HorizontalAlignment="Left" Margin="75,172,0,0" VerticalAlignment="Top" Height="40" Width="316" Click="Button_HalfTransverse_Click"/>
+
+        <Button Content="Open a Popup ad" HorizontalAlignment="Left" Margin="75,223,0,0" VerticalAlignment="Top" Click="Button_OpenPopup_Click" Width="316"/>
 
         <DesktopAd:Banner Name="myad" Margin="200,200,0,0" AppKey="Your appkey" AppSecret="Your appsecret" AdStyle="Transverse" ></DesktopAd:Banner>
     </Grid>

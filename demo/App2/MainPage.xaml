@@ -10,7 +10,7 @@
 
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
         <DesktopAd:Banner Name="myad"  AppKey="Your appkey" AppSecret="Your appsecret" ></DesktopAd:Banner>
-        <Button Content="Transverse or Vertical banner ad" HorizontalAlignment="Left" Margin="61,170,0,0" VerticalAlignment="Top" Click="Button_Click"/>
+        <Button Content="Transverse/Half or Vertical banner ad" HorizontalAlignment="Left" Margin="61,170,0,0" VerticalAlignment="Top" Click="Button_Click"/>
         <Button Content="Open Popup ad" HorizontalAlignment="Left" Margin="411,170,0,0" VerticalAlignment="Top" Click="Button_Click1"/>
     </Grid>
 </Page>

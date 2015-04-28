@@ -1,73 +1,84 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Machine>ICSOFT-PC</Machine>
-    <WindowsUser>icsoft</WindowsUser>
+    <Machine>WIN-C8HL1UJEPT4</Machine>
+    <WindowsUser>Administrator</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
     <SolutionConfiguration>Debug|x86</SolutionConfiguration>
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>f2e1db7c-9846-44eb-a1e2-0165af0b3fce</PackageIdentityName>
-    <RegisteredManifestChecksum>AEB3B16E354FD15D4ED8F1C8661CA09219AF9F3C6BE2F442B43CC2EE261EB353</RegisteredManifestChecksum>
+    <IntermediateOutputPath>C:\Users\Administrator\Desktop\Github\demo\App1\obj\x86\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>B9FBDAE1405141A11CD87D98AF4E5059DFFDC9337357285C95463C66F2EDBD45</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>f2e1db7c-9846-44eb-a1e2-0165af0b3fce_1.0.0.0_x86__g44nqv8kzhz9c</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>f2e1db7c-9846-44eb-a1e2-0165af0b3fce_g44nqv8kzhz9c!App</RegisteredUserModeAppID>
     <RegisteredPackageID>f2e1db7c-9846-44eb-a1e2-0165af0b3fce</RegisteredPackageID>
     <RegisteredPackagePublisher>CN=dark</RegisteredPackagePublisher>
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\icsoft\Desktop\DesktopAD相关\DesktopAd\demo\App1\bin\x86\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Administrator\Desktop\Github\demo\App1\bin\x86\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-03-11T03:04:53.211</Modified>
+      <Modified>2015-04-28T06:06:06.956</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\icsoft\Desktop\DesktopAD相关\DesktopAd\demo\App1\bin\x86\Debug\App1.exe">
+    <AppxPackagedFile Include="C:\Users\Administrator\Desktop\Github\demo\App1\bin\x86\Debug\App1.exe">
       <PackagePath>App1.exe</PackagePath>
-      <Modified>2015-03-14T02:23:05.286</Modified>
+      <Modified>2015-04-28T06:45:43.476</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\icsoft\Desktop\DesktopAD相关\DesktopAd\WindowsRuntime\DesktopAd.winmd">
+    <AppxPackagedFile Include="C:\Users\Administrator\Desktop\Github\WindowsRuntime\DesktopAd.winmd">
       <PackagePath>DesktopAd.winmd</PackagePath>
-      <Modified>2015-03-11T03:03:39.463</Modified>
+      <Modified>2015-04-28T05:27:54.854</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\icsoft\Desktop\DesktopAD相关\DesktopAd\demo\App1\Assets\Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Administrator\Desktop\Github\demo\App1\Assets\Logo.scale-100.png">
       <PackagePath>Assets\Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2013-09-24T16:00:42.000</Modified>
+      <Modified>2015-04-28T06:03:31.071</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\icsoft\Desktop\DesktopAD相关\DesktopAd\demo\App1\Assets\SmallLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Administrator\Desktop\Github\demo\App1\Assets\SmallLogo.scale-100.png">
       <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2013-09-24T16:00:42.000</Modified>
+      <Modified>2015-04-28T06:03:31.075</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\icsoft\Desktop\DesktopAD相关\DesktopAd\demo\App1\Assets\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Administrator\Desktop\Github\demo\App1\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2013-09-24T16:00:42.000</Modified>
+      <Modified>2015-04-28T06:03:31.080</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\icsoft\Desktop\DesktopAD相关\DesktopAd\demo\App1\Assets\StoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Administrator\Desktop\Github\demo\App1\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2013-09-24T16:00:42.000</Modified>
+      <Modified>2015-04-28T06:03:31.086</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\icsoft\Desktop\DesktopAD相关\DesktopAd\demo\App1\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\Administrator\Desktop\Github\demo\App1\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2015-03-08T15:48:40.000</Modified>
+      <Modified>2015-04-28T06:04:41.585</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\icsoft\Desktop\DesktopAD相关\DesktopAd\demo\App1\bin\x86\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\Administrator\Desktop\Github\demo\App1\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2015-03-14T02:23:04.927</Modified>
+      <Modified>2015-04-28T06:22:17.694</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\icsoft\Desktop\DesktopAD相关\DesktopAd\WindowsRuntime\DesktopAd\Banner.xbf">
+    <AppxPackagedFile Include="C:\Users\Administrator\Desktop\Github\demo\App1\bin\x86\Debug\App1.xr.xml">
+      <PackagePath>App1.xr.xml</PackagePath>
+      <Modified>2015-04-28T06:04:41.547</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\Desktop\Github\WindowsRuntime\DesktopAd\Banner.xbf">
       <PackagePath>DesktopAd\Banner.xbf</PackagePath>
-      <Modified>2015-03-11T03:03:38.656</Modified>
+      <Modified>2015-04-28T05:27:54.478</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\icsoft\Desktop\DesktopAD相关\DesktopAd\WindowsRuntime\DesktopAd\BannerPopup.xbf">
+    <AppxPackagedFile Include="C:\Users\Administrator\Desktop\Github\WindowsRuntime\DesktopAd\BannerPopup.xbf">
       <PackagePath>DesktopAd\BannerPopup.xbf</PackagePath>
-      <Modified>2015-03-11T03:03:38.656</Modified>
+      <Modified>2015-04-28T05:27:54.478</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\icsoft\Desktop\DesktopAD相关\DesktopAd\demo\App1\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Administrator\Desktop\Github\WindowsRuntime\DesktopAd\DesktopAd.xr.xml">
+      <PackagePath>DesktopAd\DesktopAd.xr.xml</PackagePath>
+      <Modified>2015-04-28T06:18:35.350</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Administrator\Desktop\Github\demo\App1\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2015-03-13T01:53:36.864</Modified>
+      <Modified>2015-04-28T06:06:05.673</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
