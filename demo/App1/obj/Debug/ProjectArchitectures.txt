@@ -1,2 +1,0 @@
-C:\Users\dark\documents\visual studio 2013\Projects\App1\App1\App1.csproj;neutral
-C:\Users\dark\documents\visual studio 2013\Projects\App1\DesktopAd\DesktopAd.csproj;neutral
