@@ -1,4 +1,4 @@
-DesktopAD-SDK-For-Windows-Metro
+DesktopAD-SDK-For-Windows Store app
 
 This is the SDK of DesktopAD for Windows store app. You can visit www.desktopad.com to get more infomation.
 
